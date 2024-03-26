@@ -1,0 +1,1141 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+/* * Prefixed by https://autoprefixer.github.io * PostCSS: v8.4.14, * Autoprefixer: v10.4.7 * Browsers: last 4 version */
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+  nav.navbar .navbar-nav {
+    gap: 20px !important;
+  }
+
+  .h-bar P,
+  header .h-info a,
+  nav.navbar .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+
+  nav.navbar .navbar-brand {
+    width: 80px;
+    height: 80px;
+  }
+
+  nav.navbar .btn-wrapper .btn-blue {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .h-banner {
+    height: 640px;
+  }
+
+  .h-banner .travel-info {
+    padding: 20px;
+    margin-bottom: -56px;
+  }
+
+  .h-banner .travel-info .form-select {
+    font-size: 14px;
+  }
+
+  .h-destinations {
+    padding-top: 120px;
+  }
+
+  .h-destinations .slider-wrapper figure {
+    height: 160px;
+  }
+
+  .h-destinations .btn-wrapper .btn-blue,
+  .h-categories .btn-wrapper .btn-blue {
+    padding: 14px 36px;
+  }
+
+  .h-activites {
+    padding-top: 0;
+  }
+
+  .h-activites .treks ul {
+    padding-right: 0;
+  }
+
+  .h-activites .treks ul a {
+    font-size: 14px;
+  }
+
+  .h-activites .activites-links h6 {
+    font-size: 13px;
+  }
+
+  .h-activites .activites-links figure {
+    height: 106px;
+    margin-bottom: 10px;
+  }
+
+  .h-categories {
+    padding: 60px 0;
+  }
+
+  .h-categories .categories-wrapper .cate-box.m-top {
+    margin-top: 50px;
+  }
+
+  .h-categories .categories-wrapper .cate-box figure {
+    height: 400px;
+  }
+
+  .h-categories .categories-wrapper .cate-box figure figcaption {
+    width: 65%;
+  }
+
+  .stylist-btn {
+    font-size: 18px;
+  }
+
+  .heading {
+    font-size: 30px;
+  }
+
+  .h-packages .packages-box .packages-img ul {
+    font-size: 13px;
+  }
+
+  .h-packages .packages-box .packages-info li {
+    display: block;
+  }
+
+  .h-packages .packages-box .packages-info h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .h-packages .packages-box figure {
+    height: 160px;
+  }
+
+  .h-packages .packages-warpper .btn-wrapper p {
+    font-size: 16px;
+  }
+
+  .h-packages .packages-warpper .btn-wrapper .btn-blue {
+    padding: 10px 26px;
+  }
+
+  .h-testimonials {
+    padding: 60px 0;
+  }
+
+  .dest-details .activity-box figure {
+    height: 150px;
+  }
+
+  .dest-details .activity-box figure figcaption {
+    font-size: 14px;
+    padding: 10px;
+    width: 160px;
+  }
+
+  .inner-heading {
+    font-size: 40px;
+  }
+
+  .dest-details .dest-groups .inner-heading::before {
+    right: 33%;
+  }
+
+  .dest-details .details-reviews .rating-total {
+    margin-bottom: 20px;
+  }
+
+  .dest-details .info-wrapper h3 {
+    font-size: 26px;
+    line-height: 1.4;
+  }
+
+  .act-details .inner-heading::before {
+    right: 24.5%;
+  }
+
+  .act-details .activity-box figure figcaption {
+    width: 110px;
+    top: 50%;
+  }
+
+  footer .footer-logo figure {
+    height: 80px;
+  }
+
+  footer .footer-logo figure img {
+    -o-object-fit: contain;
+    object-fit: contain;
+  }
+
+  footer .footer-links ul {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+
+  footer .footer-info ul {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    gap: 0 !important;
+  }
+
+  footer .footer-links,
+  footer .footer-info {
+    margin-bottom: 30px;
+  }
+
+  footer .footer-social ul {
+    gap: 10px;
+  }
+
+  footer .footer-social ul a {
+    font-size: 26px;
+  }
+
+  footer .inquiry h6 {
+    margin-bottom: 30px;
+  }
+
+  footer .inquiry .btn-wrapper {
+    margin-top: 20px;
+  }
+
+  .pack-details .summary-box .summary-icon {
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+  }
+
+  .pack-details .summary-box .summary-ul h5 {
+    font-size: 16px;
+  }
+
+  .contact-section .heading {
+    font-size: 37px;
+    margin-right: 0;
+  }
+
+  .contact-section .heading::after {
+    right: 58px;
+  }
+
+  .contact-section form {
+    margin-bottom: 50px;
+  }
+
+  .about-page .about-travel .travel-box figure {
+    height: 200px;
+  }
+
+  .about-page .heading-wrapper .heading {
+    font-size: 30px;
+  }
+
+  .about-page .about-bar ul li {
+    font-size: 14px;
+  }
+
+  .dest-details .dest-groups .inner-heading::before {
+    right: 33%;
+  }
+
+  .contact-section::before {
+    width: 51.6%;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  body .height-fixed-overlay {
+    visibility: hidden;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  body.height-fixed {
+    overflow: hidden;
+    position: relative;
+  }
+
+  body.height-fixed .height-fixed-overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100dvh;
+    left: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 19;
+    content: "";
+    visibility: visible;
+    -webkit-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    transform: translateX(-100%);
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 100vw;
+    background: var(--primary);
+    z-index: 21;
+    height: 100vh;
+    width: 100%;
+    visibility: hidden;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+    max-width: 300px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding-bottom: 30px;
+    overflow-y: scroll;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+
+  .navbar-collapse:not(.show) {
+    display: block;
+  }
+
+  .navbar-collapse.show {
+    visibility: visible;
+    -webkit-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+
+  .navbar-collapse>* {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
+  .navbar-collapse form {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+    padding: 0 20px;
+  }
+
+  .navbar-collapse form .form-control {
+    margin: 0 !important;
+  }
+
+  .navbar-collapse form .btn {
+    margin-right: 20px;
+  }
+
+  .navbar-collapse .h-bar {
+    background: none;
+    padding: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    margin: 20px 0;
+  }
+
+  .navbar-collapse .h-bar ul li {
+    margin: 0 20px 0 0;
+  }
+
+  .navbar-collapse .h-bar ul li:first-child {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 100%;
+    margin-bottom: 16px;
+    margin-right: 0;
+    font-size: 16px;
+  }
+
+  header .h-info-social {
+    padding: 20px !important;
+    display: block !important;
+  }
+
+  header .h-info-social .h-info {
+    margin-bottom: 0;
+  }
+
+  header .h-info-social .h-info li {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  header .h-info-social .h-social li {
+    margin-left: 0;
+    font-size: 20px;
+  }
+
+  header nav.navbar {
+    padding: 2px 0;
+    border-top: 0;
+  }
+
+  header nav.navbar .nav-link {
+    font-size: 16px;
+  }
+
+  header nav.navbar .btn-wrapper {
+    padding: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  header nav.navbar .btn-wrapper .btn-blue {
+    padding: 10px 20px;
+    font-size: 16px;
+    background: var(--secondary);
+    color: var(--sub-heading);
+    border: 1px solid var(--secondary);
+  }
+
+  header nav.navbar .btn-wrapper .btn-blue:hover {
+    color: var(--secondary);
+    background: transparent;
+  }
+
+  header nav.navbar .btn-wrapper .btn-blue:hover .fa-paper-plane {
+    color: var(--primary);
+  }
+
+  header nav.navbar .btn-wrapper .btn-blue .fa-paper-plane {
+    color: var(--sub-heading);
+  }
+
+  header .h-social {
+    font-size: 20px;
+  }
+
+  .navbar-toggler {
+    -webkit-filter: brightness(11);
+    filter: brightness(11);
+    border: 0;
+  }
+
+  .navbar-toggler:focus {
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .logo-sm {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 20px 20px 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .logo-sm .logo-img {
+    margin-bottom: 0;
+    width: 80px;
+    height: 80px;
+  }
+
+  .logo-sm .close {
+    font-size: 18px;
+    background: white;
+    width: 26px;
+    height: 26px;
+    color: var(--primary);
+    text-align: center;
+    line-height: 27px;
+    border-radius: 50%;
+  }
+
+  nav.navbar .navbar-nav {
+    padding: 10px 20px;
+    gap: 5px !important;
+    text-transform: capitalize;
+  }
+
+  nav.navbar .navbar-nav .dropdown:hover .dropdown-menu {
+    width: 100%;
+  }
+
+  .h-banner {
+    height: 660px;
+  }
+
+  .h-banner .travel-info {
+    padding: 30px;
+    margin-bottom: -15%;
+  }
+
+  .h-destinations .slider-wrapper figure {
+    height: 180px;
+    margin-bottom: 0;
+  }
+
+  .h-destinations .btn-wrapper .btn-blue,
+  .h-categories .btn-wrapper .btn-blue {
+    padding: 12px 30px;
+  }
+
+  .h-activites .treks ul {
+    padding: 2px 0 2px 20px;
+    margin-bottom: 0;
+  }
+
+  .h-activites .treks ul li::before {
+    width: 20px;
+    height: 20px;
+    left: -21px;
+    top: 3px;
+  }
+
+  .h-activites .treks ul a {
+    font-size: 14px;
+  }
+
+  .h-activites .activites-links figure {
+    height: 118px;
+  }
+
+  .stylist-btn {
+    font-size: 18px;
+    padding: 8px 0;
+  }
+
+  .h-categories {
+    padding: 60px 0;
+  }
+
+  .h-categories .categories-info .heading {
+    max-width: 100%;
+  }
+
+  .h-categories .categories-wrapper {
+    margin-bottom: 20px;
+  }
+
+  .h-categories .categories-wrapper .cate-box.m-top {
+    margin-top: 40px;
+  }
+
+  .h-categories .categories-wrapper .cate-box p {
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+
+  .h-categories .categories-wrapper .cate-box figure {
+    height: 320px;
+    margin-bottom: 20px;
+  }
+
+  .h-categories .categories-wrapper .cate-box figure figcaption {
+    font-size: 26px;
+  }
+
+  .h-packages .packages-warpper {
+    margin-bottom: 30px;
+  }
+
+  .h-testimonials {
+    padding: 60px 0;
+  }
+
+  .h-testimonials .testimonials-slide-wrapper .svg-wrapper {
+    width: 40px;
+    height: 40px;
+    top: 1%;
+    left: 4%;
+  }
+
+  .h-testimonials .testimonials-slider {
+    padding: 40px 0;
+  }
+
+  .h-testimonials .testimonials-slider .slick-arrow {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    top: auto;
+    bottom: 6%;
+  }
+
+  .h-testimonials .testimonials-slider .slick-arrow.slick-prev {
+    left: 39%;
+    z-index: 1;
+  }
+
+  .h-testimonials .testimonials-slider .slick-arrow.slick-next {
+    left: 50%;
+  }
+
+  .contact-section::before {
+    width: 100%;
+  }
+
+  .contact-section .heading-wrapper {
+    text-align: center;
+  }
+
+  .contact-section .heading {
+    font-size: 36px;
+    margin-bottom: 0;
+    margin-right: 0;
+    padding-left: 0;
+  }
+
+  .contact-section .heading b {
+    color: var(--white);
+  }
+
+  .contact-section .heading::after {
+    /* right: 11px;
+		 */
+  }
+
+  .contact-section form {
+    margin-bottom: 50px;
+  }
+
+  .contact-section .row {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  footer ul {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-size: 14px;
+  }
+
+  footer .footer-logo figure {
+    height: 80px;
+  }
+
+  footer .footer-logo figure img {
+    -o-object-fit: contain;
+    object-fit: contain;
+  }
+
+  footer .footer-links {
+    margin-bottom: 30px;
+  }
+
+  footer .footer-info {
+    margin-bottom: 30px;
+  }
+
+  footer .inquiry {
+    width: 100%;
+  }
+
+  footer .inquiry h6 {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  footer .inquiry .btn-wrapper {
+    margin-top: 20px;
+  }
+
+  footer .footer-social ul a {
+    font-size: 24px;
+  }
+
+  .pack-details .summary-box .summary-ul {
+    padding-left: 10px;
+  }
+
+  .pack-details .summary-box .summary-ul h5 {
+    font-size: 14px;
+  }
+
+  .pack-details .packages-nav a {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .pack-details .itinerary-wrapper .accordion .accordion-header .accordion-button {
+    padding: 10px;
+    text-align: left;
+    font-size: 14px;
+  }
+
+  .pack-details .pack-details .essential-wrapper .essential-ul ul {
+    padding: 16px;
+  }
+
+  .pack-details .pack-details .essential-wrapper .essential-ul ul li {
+    gap: 10px;
+  }
+
+  .pack-details .pack-details .essential-wrapper .essential-ul ul p {
+    line-height: 1.4;
+  }
+
+  .inner-heading {
+    font-size: 32px;
+  }
+
+  .inner-banner {
+    height: 230px;
+  }
+
+  .activity-box figure::after {
+    padding: 11px;
+  }
+
+  .dest-details .activity-box figure {
+    height: 140px;
+  }
+
+  .dest-details .activity-box figure figcaption {
+    font-size: 14px;
+    padding: 10px;
+    width: 150px;
+  }
+
+  .act-details .details-img-slider figure {
+    height: 280px;
+  }
+
+  .act-details .inner-heading::before {
+    right: 52.5%;
+  }
+
+  .act-details .activity-box figure figcaption {
+    top: 45%;
+  }
+
+  .about-page .about-bar ul {
+    padding: 10px 0;
+  }
+
+  .about-page .about-bar ul li {
+    padding: 0;
+    font-size: 14px;
+  }
+
+  .about-page .heading-wrapper .heading {
+    font-size: 34px;
+  }
+
+  .about-page .about-services .services-box {
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .about-page .about-services .services-box figure {
+    width: 26px;
+    height: 26px;
+  }
+
+  .about-page .about-services .services-box p {
+    font-size: 13px;
+  }
+
+  .btn-blue {
+    font-size: 14px;
+  }
+
+  .about-page .about-services .btn-wrapper {
+    margin-top: 20px;
+  }
+
+  .about-page .about-travel .travel-box figure {
+    height: 170px;
+  }
+
+  .booking-page .heading-wrapper .heading-ext {
+    font-size: 16px;
+  }
+
+  .login-page .inner-banner {
+    min-height: 550px;
+  }
+
+  .signup-page .inner-banner {
+    min-height: 780px;
+  }
+
+  .signup-page .signup-box form .btn-wrapper {
+    display: block;
+  }
+
+  .signup-page .signup-box form .btn-wrapper .btn-blue {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .heading {
+    font-size: 30px;
+  }
+
+  .h-banner {
+    height: 820px;
+  }
+
+  .h-banner .travel-info {
+    padding: 30px;
+    margin-bottom: -120px;
+  }
+
+  .h-activites .treks {
+    margin: 20px 20px 0;
+  }
+
+  .h-categories .categories-info p {
+    margin-bottom: 10px;
+  }
+
+  .h-categories .categories-info .heading {
+    margin-bottom: 20px;
+  }
+
+  .h-categories .categories-wrapper .cate-box.m-top {
+    margin: 20px 0 30px;
+    border-bottom: 1px solid var(--light-grey);
+    border-top: 1px solid var(--light-grey);
+    padding: 30px 0 20px;
+  }
+
+  .h-packages .heading,
+  .h-testimonials .heading {
+    margin-right: 30px;
+  }
+
+  .h-packages .packages-box .packages-info h3 {
+    text-wrap: unset;
+  }
+
+  .h-packages .packages-box .packages-info ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .contact-section::before {
+    width: 100%;
+  }
+
+  .contact-section .heading-wrapper {
+    text-align: center;
+  }
+
+  .contact-section .heading-wrapper .heading {
+    /* display: inline;
+		 */
+  }
+
+  .contact-section .heading-wrapper .heading b {
+    color: white;
+  }
+
+  footer {
+    padding: 60px 0;
+  }
+
+  footer .footer-logo {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(13, 96, 156, 0.27);
+  }
+
+  footer .footer-logo figure {
+    margin-bottom: 0;
+  }
+
+  footer .footer-logo figure img {
+    /* object-position: left;
+		 */
+  }
+
+  footer .footer-links {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(13, 96, 156, 0.27);
+  }
+
+  footer .footer-links ul {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 16px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  footer .footer-links ul .list-inline-item {
+    margin: 0;
+  }
+
+  footer .footer-links ul .list-inline-item a {
+    padding: 10px 0;
+    font-size: 15px;
+  }
+
+  footer .footer-info {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(13, 96, 156, 0.27);
+  }
+
+  footer .footer-info ul {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 16px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  footer .footer-info ul .list-inline-item:not(:last-child) {
+    margin: 0;
+  }
+
+  footer .footer-info ul a {
+    padding: 10px 0;
+    font-size: 15px;
+  }
+
+  footer .footer-social ul {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 0;
+  }
+
+  footer .inquiry {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(13, 96, 156, 0.27);
+    text-align: center;
+  }
+
+  footer .inquiry form,
+  footer .inquiry .btn-wrapper {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto;
+  }
+
+  footer .inquiry .btn-wrapper {
+    margin-bottom: 0;
+  }
+
+  footer .inquiry .input-group .form-control {
+    padding: 9px 12px !important;
+  }
+
+  footer .inquiry .btn-transparent {
+    font-size: 14px;
+    padding: 8px 0;
+  }
+
+  .activity-box figure figcaption::after {
+    padding: 11px !important;
+    right: -20px !important;
+  }
+
+  .dest-details .heading-wrapper {
+    margin-bottom: 40px;
+  }
+
+  .inner-heading::before {
+    display: none;
+  }
+
+  .dest-details .detail-side {
+    margin-top: 30px;
+  }
+
+  .pack-details .packages-nav ul {
+    gap: 8px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .inner-banner h1 {
+    font-size: 30px;
+  }
+
+  .about-page .about-bar ul {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .booking-page .contact-section form {
+    margin-bottom: 0;
+  }
+
+  .contact-section .heading::after {
+    right: 0;
+  }
+
+  .dest-details .contact-section .heading-wrapper {
+    display: block;
+  }
+
+  .contact-page .social-group {
+    margin-bottom: 30px;
+  }
+
+  .signup-page .inner-banner {
+    min-height: 940px;
+  }
+
+  .login-page .inner-banner {
+    min-height: 720px;
+  }
+
+  .signup-page .heading-wrapper h1 {
+    margin-bottom: 20px;
+  }
+
+  .dest-page .dest-search {
+    width: 100%;
+  }
+
+  .sidebar-filter {
+    position: fixed;
+    top: 0;
+    left: 100%;
+    background: var(--white);
+    z-index: 21;
+    height: 100vh;
+    width: 100%;
+    padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding-bottom: 30px;
+    overflow-y: scroll;
+    -webkit-transition: right 0.3s ease-in-out;
+    -o-transition: right 0.3s ease-in-out;
+    transition: right 0.3s ease-in-out;
+  }
+
+  .sidebar-filter.show {
+    left: 0;
+  }
+
+  .sidebar-filter.show .sidebar-close {
+    display: block;
+  }
+
+  .sidebar-btn {
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    background: var(--primary);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 8px 14px;
+    color: var(--white);
+    font-size: 14px;
+    top: 50%;
+  }
+
+  .sidebar-btn [class*="fa-"] {
+    margin-right: 5px;
+  }
+
+  .sidebar-btn:hover {
+    background: var(--secondary);
+    color: var(--sub-heading);
+  }
+
+  .sidebar-close {
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    display: none;
+    background: var(--secondary);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 8px 14px;
+    color: var(--white);
+    font-size: 14px;
+    top: 50%;
+  }
+
+  .h-banner .travel-info .form-select {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .h-banner {
+    height: 760px;
+  }
+
+  .h-banner .banner-info h1 {
+    font-size: 50px;
+  }
+
+  .h-banner .banner-info p {
+    font-size: 16px;
+  }
+
+  .h-banner .banner-info p span {
+    display: inline;
+  }
+
+  .h-banner .travel-info {
+    padding: 20px;
+    margin: 0 0 -100px;
+  }
+
+  .h-destinations {
+    padding-top: 130px;
+  }
+
+  .about-page .heading-wrapper .heading {
+    font-size: 30px;
+  }
+
+  .booking-page .heading-ext::after {
+    right: 9%;
+  }
+}
